@@ -1,1 +1,3 @@
-Aulas 11.03
+Objetivo do projeto;
+Tecnologias utilizadas;
+Como executar o projeto (passo a passo).
